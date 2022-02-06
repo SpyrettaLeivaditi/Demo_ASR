@@ -1,0 +1,1 @@
+./htk/bin/HVite -H HMM2/ZERO –H HMM2/ONE -H HMM2/TWO -H HMM2/THREE -H HMM2/FOUR -H HMM2/FIVE -H HMM2/SIX -H HMM2/SEVEN -H HMM2/EIGHT -H HMM2/NINE -i reco.mlf -w net.slf dict.txt hmmlist.txt -S test_spyretta_mfclist.scp

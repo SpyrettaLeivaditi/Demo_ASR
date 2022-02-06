@@ -1,0 +1,10 @@
+./htk/bin/HRest -T 2 -S training_0_mfc.scp -H HMM1/TEN -M HMM2 ZERO
+./htk/bin/HRest -T 2 -S training_1_mfc.scp -H HMM1/ONE -M HMM2 ONE
+./htk/bin/HRest -T 2 -S training_2_mfc.scp -H HMM1/TWO -M HMM2 TWO
+./htk/bin/HRest -T 2 -S training_3_mfc.scp -H HMM1/THREE -M HMM2 THREE
+./htk/bin/HRest -T 2 -S training_4_mfc.scp -H HMM1/FOUR -M HMM2 FOUR
+./htk/bin/HRest -T 2 -S training_5_mfc.scp -H HMM1/FIVE -M HMM2 FIVE
+./htk/bin/HRest -T 2 -S training_6_mfc.scp -H HMM1/SIX -M HMM2 SIX
+./htk/bin/HRest -T 2 -S training_7_mfc.scp -H HMM1/SEVEN -M HMM2 SEVEN
+./htk/bin/HRest -T 2 -S training_8_mfc.scp -H HMM1/EIGHT -M HMM2 EIGHT
+./htk/bin/HRest -T 2 -S training_9_mfc.scp -H HMM1/NINE -M HMM2 NINE

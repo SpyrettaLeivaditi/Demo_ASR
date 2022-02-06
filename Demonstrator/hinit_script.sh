@@ -1,0 +1,10 @@
+./htk/bin/HInit -T 2 -S training_0_mfc.scp -H HMM0/ZERO -M HMM1 ZERO
+./htk/bin/HInit -T 2 -S training_1_mfc.scp -H HMM0/ONE -M HMM1 ONE
+./htk/bin/HInit -T 2 -S training_2_mfc.scp -H HMM0/TWO -M HMM1 TWO
+./htk/bin/HInit -T 2 -S training_3_mfc.scp -H HMM0/THREE -M HMM1 THREE
+./htk/bin/HInit -T 2 -S training_4_mfc.scp -H HMM0/FOUR -M HMM1 FOUR
+./htk/bin/HInit -T 2 -S training_5_mfc.scp -H HMM0/FIVE -M HMM1 FIVE
+./htk/bin/HInit -T 2 -S training_6_mfc.scp -H HMM0/SIX -M HMM1 SIX
+./htk/bin/HInit -T 2 -S training_7_mfc.scp -H HMM0/SEVEN -M HMM1 SEVEN
+./htk/bin/HInit -T 2 -S training_8_mfc.scp -H HMM0/EIGHT -M HMM1 EIGHT
+./htk/bin/HInit -T 2 -S training_9_mfc.scp -H HMM0/NINE -M HMM1 NINE
