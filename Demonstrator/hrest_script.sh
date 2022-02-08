@@ -1,4 +1,4 @@
-./htk/bin/HRest -T 2 -S training_0_mfc.scp -H HMM1/TEN -M HMM2 ZERO
+./htk/bin/HRest -T 2 -S training_0_mfc.scp -H HMM1/ZERO -M HMM2 ZERO
 ./htk/bin/HRest -T 2 -S training_1_mfc.scp -H HMM1/ONE -M HMM2 ONE
 ./htk/bin/HRest -T 2 -S training_2_mfc.scp -H HMM1/TWO -M HMM2 TWO
 ./htk/bin/HRest -T 2 -S training_3_mfc.scp -H HMM1/THREE -M HMM2 THREE
